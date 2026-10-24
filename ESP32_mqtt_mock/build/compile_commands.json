@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/main.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/main.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/main.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/serial/serial.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/serial/serial.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/serial/serial.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/serial/serial.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/esp32.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/esp32.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/esp32.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/esp32.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/utils/utils.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/utils/utils.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/utils/utils.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/utils/utils.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/serial/serialMock.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/serial/serialMock.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/serial/serialMock.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/serial/serialMock.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/ESP32Mock.dir/src/mqtt/mqtt.cpp.o -c /mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/mqtt/mqtt.cpp",
+  "file": "/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/src/mqtt/mqtt.cpp",
+  "output": "CMakeFiles/ESP32Mock.dir/src/mqtt/mqtt.cpp.o"
+}
+]

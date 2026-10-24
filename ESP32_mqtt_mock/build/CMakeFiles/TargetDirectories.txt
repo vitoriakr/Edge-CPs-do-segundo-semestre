@@ -1,0 +1,3 @@
+/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build/CMakeFiles/ESP32Mock.dir
+/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vkere/OneDrive/Documentos/GitHub/Edge_computing__segundo_semestre/ESP32_mqtt_mock/build/CMakeFiles/rebuild_cache.dir
